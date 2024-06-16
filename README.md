@@ -71,11 +71,11 @@ You can easily customize the app to reflect your own portfolio information.
 
 ## Screenshots
 
-![Screenshot]([https://github.com/SN24K/Portfolio-App/blob/main/image1.jpeg](https://raw.githubusercontent.com/SN24K/Music-App-Using-Flutter/main/image1.jpeg))
-![Screenshot]([https://github.com/SN24K/Portfolio-App/blob/main/image2.jpeg](https://raw.githubusercontent.com/SN24K/Music-App-Using-Flutter/main/image2.jpeg))
-![Screenshot]([https://github.com/SN24K/Portfolio-App/blob/main/image3.jpeg](https://raw.githubusercontent.com/SN24K/Music-App-Using-Flutter/main/image3.jpeg))
-![Screenshot]([https://github.com/SN24K/Portfolio-App/blob/main/image4.jpeg](https://raw.githubusercontent.com/SN24K/Music-App-Using-Flutter/main/image4.jpeg))
-![Screenshot]([https://github.com/SN24K/Portfolio-App/blob/main/image5.jpeg](https://raw.githubusercontent.com/SN24K/Music-App-Using-Flutter/main/image5.jpeg))
+![Screenshot]([https://github.com/SN24K/Portfolio-App/blob/main/image1.jpeg])
+![Screenshot]([https://github.com/SN24K/Portfolio-App/blob/main/image2.jpeg])
+![Screenshot]([https://github.com/SN24K/Portfolio-App/blob/main/image3.jpeg])
+![Screenshot]([https://github.com/SN24K/Portfolio-App/blob/main/image4.jpeg])
+![Screenshot]([https://github.com/SN24K/Portfolio-App/blob/main/image5.jpeg])
 
 
 
